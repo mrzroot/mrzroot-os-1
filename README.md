@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=220&section=header&text=MRZROOT-OS-1&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Async%20Task%20Runner%20%26%20Micro-Scheduler%20Engine&descFontSize=16&descAlignY=58&descAlign=50" alt="MRZROOT OS 1 Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=200&section=header&text=MRZROOT-OS-1&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Lightweight%20Python%20Async%20Task%20Runner%20%26%20Scheduler&descFontSize=16&descAlignY=58&descAlign=50" alt="MRZROOT OS 1 Banner" width="100%" />
 
 <!-- Animated Typist -->
 <a href="https://github.com/mrzroot/mrzroot-os-1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=High-Performance+Async+Task+Runner;Non-Blocking+Micro-Scheduler+%26+Worker+Pool;Pure+Standard+Library+%7C+Zero+Dependencies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Simple+Async+Task+Runner+in+Python;Clean+Background+Job+Execution+with+asyncio;Zero+External+Dependencies+%7C+Beginner-Friendly" alt="Typing SVG" />
 </a>
 
 <br />
@@ -21,7 +21,7 @@
   <a href="https://github.com/mrzroot/mrzroot-os-1/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" alt="License" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
 </p>
 
@@ -35,12 +35,12 @@
 
 ### 📖 Overview
 
-**MRZROOT-OS-1** is a high-speed, asynchronous task orchestrator and micro-scheduler for Python. Built with zero external dependencies, it provides concurrent task processing, priority queues, and cron-like scheduling with minimal overhead.
+**MRZROOT-OS-1** is an easy-to-use, lightweight asynchronous task runner built with Python's built-in `asyncio`. It demonstrates how to run multiple background tasks concurrently without complicated setups or heavy third-party libraries.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ⚡ MRZROOT-OS-1 Async Micro-Scheduler                     │
-│  [Core] Concurrent • Non-blocking • Lightweight • Resilient│
+│  ⚡ MRZROOT-OS-1 Async Task Runner                         │
+│  [Core] Concurrent • Clean • Easy to Learn • Zero Deps     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,10 +48,10 @@
 
 ### ✨ Key Features
 
-- ⚡ **Asynchronous Concurrency**: Built on Python `asyncio` for non-blocking task execution.
-- ⏱️ **Cron & Interval Schedules**: Execute periodic background jobs with microsecond precision.
-- 🛡️ **Zero Overhead**: No Celery/Redis dependencies required for standalone setups.
-- 📊 **Real-time Telemetry**: Monitor worker status, queue depths, and execution latencies.
+- ⚡ **Built with Pure `asyncio`**: No Celery or Redis needed for small scripts and local experiments.
+- ⏱️ **Concurrent Execution**: Run multiple tasks simultaneously with minimal code.
+- 📖 **Clear & Commented Code**: Perfect for learning asynchronous programming in Python.
+- 🚀 **Instant Setup**: Clone and run immediately.
 
 ---
 
